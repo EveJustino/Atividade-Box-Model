@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body {
+    border: solid rgb(171, 88, 196) 6px;
+    height: 400px;
+    width: 400px;
+}
+
+div{
+    border: solid hsl(32, 96%, 55%) 6px;
+    height: 365px;
+    margin: 10px 10px;
+    background-color: lightgrey;
+}
+
+img {
+    height: 340px;
+    width: 350px;
+    padding: 10px;
+}
